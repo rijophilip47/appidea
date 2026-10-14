@@ -85,3 +85,4 @@ class AuthenticationAndWorkspaceTest extends TestCase
         $this->assertGuest();
     }
 }
+

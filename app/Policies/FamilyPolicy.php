@@ -47,3 +47,4 @@ class FamilyPolicy
         return $user->isOwnerOfFamily($family->id);
     }
 }
+

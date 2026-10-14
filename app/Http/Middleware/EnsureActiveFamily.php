@@ -76,3 +76,4 @@ class EnsureActiveFamily
         return $next($request);
     }
 }
+

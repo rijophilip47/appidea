@@ -70,3 +70,4 @@ class DocumentCategorySeeder extends Seeder
         }
     }
 }
+

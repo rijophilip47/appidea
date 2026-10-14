@@ -44,3 +44,4 @@ class FamilyMember extends Model
         return in_array($this->role, ['owner', 'admin'], true);
     }
 }
+

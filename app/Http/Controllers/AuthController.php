@@ -139,3 +139,4 @@ class AuthController extends Controller
             ->with('info', 'You have been logged out.');
     }
 }
+

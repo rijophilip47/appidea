@@ -429,3 +429,4 @@ class DocumentController extends Controller
             ->with('success', "Document record '{$title}' and its associated files have been deleted.");
     }
 }
+

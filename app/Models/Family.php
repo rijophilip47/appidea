@@ -78,3 +78,4 @@ class Family extends Model
             ]);
     }
 }
+

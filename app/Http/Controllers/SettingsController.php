@@ -78,3 +78,4 @@ class SettingsController extends Controller
         return view('pages.terms');
     }
 }
+

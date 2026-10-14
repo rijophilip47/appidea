@@ -39,3 +39,4 @@ class SendDueRemindersCommand extends Command
         return Command::SUCCESS;
     }
 }
+

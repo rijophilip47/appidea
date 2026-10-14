@@ -48,3 +48,4 @@ class ReminderPreference extends Model
         return [30, 7, 1];
     }
 }
+

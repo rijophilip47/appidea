@@ -70,3 +70,4 @@ class DocumentPolicy
         return $user->families()->where('families.id', $document->family_id)->exists();
     }
 }
+

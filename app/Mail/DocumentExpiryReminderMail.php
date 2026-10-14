@@ -46,3 +46,4 @@ class DocumentExpiryReminderMail extends Mailable
         return []; // Strict privacy: do not attach sensitive files to email
     }
 }
+

@@ -46,3 +46,4 @@ class DocumentCategory extends Model
                      ->orWhere('family_id', $familyId);
     }
 }
+

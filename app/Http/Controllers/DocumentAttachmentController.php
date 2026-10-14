@@ -67,3 +67,4 @@ class DocumentAttachmentController extends Controller
         return back()->with('success', "Attachment '{$fileName}' was removed.");
     }
 }
+

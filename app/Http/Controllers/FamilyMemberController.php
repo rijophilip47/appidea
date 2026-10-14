@@ -116,3 +116,4 @@ class FamilyMemberController extends Controller
         return back()->with('success', "Member {$memberName} was removed from the family workspace.");
     }
 }
+

@@ -232,3 +232,4 @@
     @yield('scripts')
 </body>
 </html>
+

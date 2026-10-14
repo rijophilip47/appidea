@@ -27,3 +27,4 @@ class InviteFamilyMemberRequest extends FormRequest
         ];
     }
 }
+

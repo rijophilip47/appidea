@@ -41,3 +41,4 @@ class DocumentAttachment extends Model
         return $bytes . ' bytes';
     }
 }
+

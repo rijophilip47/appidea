@@ -45,3 +45,4 @@ class StoreDocumentRequest extends FormRequest
         ];
     }
 }
+

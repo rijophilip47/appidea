@@ -83,3 +83,4 @@ class FamilySharingAndInvitationsTest extends TestCase
         $this->assertNotNull($invitation->accepted_at);
     }
 }
+

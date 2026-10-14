@@ -48,3 +48,4 @@ class FamilyInvitation extends Model
                $this->expires_at->isFuture();
     }
 }
+

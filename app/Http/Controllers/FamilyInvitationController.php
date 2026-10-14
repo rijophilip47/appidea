@@ -90,3 +90,4 @@ class FamilyInvitationController extends Controller
         }
     }
 }
+

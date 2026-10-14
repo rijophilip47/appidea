@@ -32,3 +32,4 @@ class FamilyInvitationMail extends Mailable
         );
     }
 }
+
